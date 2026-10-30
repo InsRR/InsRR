@@ -40,10 +40,10 @@
 
 ### 📚 Currently learning
 
-| Course | Platform | Progress |
-|:---|:---:|:---:|
-| **React – The Complete Guide** *(incl. Next.js, Redux)* — Maximilian Schwarzmüller | Udemy | ![](https://img.shields.io/badge/16%25-00DC82?style=flat-square) |
-| **Programowanie w JavaScript od Zera do Mastera** — Kuba Wąsikowski | Udemy | ![](https://img.shields.io/badge/48%25-00DC82?style=flat-square) |
+| Course | Platform |
+|:---|:---:|
+| **React – The Complete Guide** *(incl. Next.js, Redux)* — Maximilian Schwarzmüller | Udemy |
+| **Programowanie w JavaScript od Zera do Mastera** — Kuba Wąsikowski | Udemy |
 
 ---
 
