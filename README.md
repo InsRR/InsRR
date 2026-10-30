@@ -38,15 +38,6 @@
 |:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,vue,nuxtjs&perline=3" /> | <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase&perline=3" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,vitest&perline=3" /> |
 
-### 📚 Courses
-
-| Course | Platform | Status |
-|:---|:---:|:---:|
-| **Programowanie w JavaScript od Zera do Mastera** — Kuba Wąsikowski | Udemy | ✅ Completed |
-| **React – The Complete Guide** *(incl. Next.js, Redux)* — Maximilian Schwarzmüller | Udemy | 🔄 In progress |
-
----
-
 ## 🚀 Featured Projects
 
 <table>
