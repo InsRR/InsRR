@@ -1,4 +1,3 @@
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00DC82&height=190&section=header&text=Dominik%20Warykowski&fontSize=56&fontColor=ffffff&fontWeight=800&animation=fadeIn&fontAlignY=36&desc=Full-stack%20Developer%20%C2%B7%20Next.js%20%2F%20Nuxt%20%2B%20Supabase&descSize=18&descAlignY=58&descAlign=50" width="100%" />
 
 <p align="center">
@@ -39,6 +38,13 @@
 |:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,vue,nuxtjs&perline=3" /> | <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase&perline=3" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,vitest&perline=3" /> |
 
+### 📚 Currently learning
+
+| Course | Platform | Progress |
+|:---|:---:|:---:|
+| **React – The Complete Guide** *(incl. Next.js, Redux)* — Maximilian Schwarzmüller | Udemy | ![](https://img.shields.io/badge/16%25-00DC82?style=flat-square) |
+| **Programowanie w JavaScript od Zera do Mastera** — Kuba Wąsikowski | Udemy | ![](https://img.shields.io/badge/48%25-00DC82?style=flat-square) |
+
 ---
 
 ## 🚀 Featured Projects
@@ -58,7 +64,7 @@ Management system for an optician's salon with online booking and patient accoun
 <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" />
 <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
 
-🔒 Private repository · [🌐 Demo](https://oto-oko.vercel.app)
+🔒 Private repository · [🌐 Live](https://otooko.app/)
 
 </td>
 <td width="50%" valign="top">
