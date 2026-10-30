@@ -18,13 +18,13 @@
 
 ## `From pixel-perfect UI to the API behind it.`
 
-### 🎓 Computer Science Student @ NAZWA UCZELNI
+### 🎓 Computer Science Student @ WSB Merito Gdańsk
 
 **Front-end specialization — building toward full-stack with Nuxt and Node.js**
 
 | 🏗️ **Building now** | 🎯 **Main focus** | 📍 **Location** |
 |:---:|:---:|:---:|
-| **RentCar** — car rental platform | **Vue / Nuxt + Node.js APIs** | **Tricity, Poland** |
+| **OtoOko** — praca inżynierska | **Vue / Nuxt + Node.js APIs** | **Gdynia, Poland** |
 
 ---
 
